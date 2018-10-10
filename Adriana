@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+  <head>
+    
+<tiltle><h1><strong>Aula Bootstrap de 08.10</strong></h1></tiltle>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+ 
+  <body>
+    	<div class="container">
+  <div class="row">
+    <div class="col-md-6"; style="background-color:green";>
+      <h1>gidkhoiufp</h1>
+    </div>
+    <div class="col-md-6"; style="background-color:blue";>
+     <em><h2> hsdidhl</h2></em>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4"; style="background-color:green";>
+     1 de 3
+    </div>
+    <div class="col-md-4"; style="background-color:pink";>
+      <h3><i>2 de 3</i></h3>
+    </div>
+    <div class="col-md-4"; style="background-color:green";>
+          3 de 3
+    </div>
+  </div>
+</div>
+ <div class="row">
+    <div class="col-md-3"; style="background-color:green";>
+      1 de 4
+    </div>
+    <div class="col-md-3"; style="background-color:pink";>
+      2 de 4
+    </div>
+    <div class="col-md-3"; style="background-color:green";>
+          3 de 4
+    </div>
+    <div class="col-md-3"; style="background-color:pink";>
+          4 de 4
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="col-md-1"; style="background-color:green";> <h1>1 de 12</h1></div>
+  <div class="col-md-1"; style="background-color:grey";><h2>2 de 12</h2></div>
+  <div class="col-md-1"; style="background-color:blue";><h3>3 de 12</h3></div>
+  <div class="col-md-1"; style="background-color:green";><h4>4 de 12</h4></div>
+  <div class="col-md-1"; style="background-color:orange";><h5>5 de 12</h5></div>
+  <div class="col-md-1"; style="background-color:pink";><h6>6 de 12</h6></div>
+  <div class="col-md-1"; style="background-color:yellow";><h7>7 de 12</h7></div>
+  <div class="col-md-1"; style="background-color:purple";><h8>8 de 12</h8></div>
+  <div class="col-md-1"; style="background-color:green";><h9>9 de 12</h9></div>
+  <div class="col-md-1"; style="background-color:grey";><h1>10 de 12</h1></div>
+  <div class="col-md-1"; style="background-color:pink";><h2>11 de 12</h2></div>
+  <div class="col-md-1"; style="background-color:black";><h3>12 de 12</h3></div>
+</div>
+<div class="row">
+  <div class="col-md-8"; style="background-color:pink";><em>8</em></div>
+  <div class="col-md-4"; style="background-color:grey";>4</div>
+</div>
+<div class="row">
+  <div class="col-md-4"; style="background-color:orange";>4</div>
+  <div class="col-md-4"; style="background-color:purple";><h3>4</h3></div>
+  <div class="col-md-4"; style="background-color:pink";>4</div>
+</div>
+<div class="row">
+  <div class="col-md-6"; style="background-color:green";><strong><em><h1>OIIII</h1></em></strong></div>
+  <div class="col-md-6"; style="background-color:pink";>OIIII</div>
+</div>
+ 
+ <div class="progress">
+  <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%"></div>
+</div>
+  </body>
+</head>
+</html>
